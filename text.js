@@ -28,7 +28,7 @@ const poemData = [
     { text: "疑是", py: "yí shì", zh: "怀疑是、以为是。", en: "suspecting / thinking it is" },
     { text: "经冬", py: "jīng dōng", zh: "经过整个冬天。", en: "through the winter", exam: true },
     { text: "雪", py: "xuě", zh: "雪花、冰雪。", en: "snow" },
-    { text: "未销", py: "wèi xiāo", zh: "没有融化。销：通"消"，融化。", en: "not yet melted", exam: true },
+    { text: "未销", py: "wèi xiāo", zh: "没有融化。销：通“消”，融化。", en: "not yet melted", exam: true },
     { text: "。", punc: true }
 ];
 
