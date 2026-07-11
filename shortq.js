@@ -20,7 +20,7 @@ const shortQData = [
         ],
         sEn: "Step 1: What words describe the plum's form?<br>Step 2: What feature do these words reveal?<br>Step 3: Where does the plum grow?",
         aZh: "梅花长得像白玉条般洁白（2分）。它生长在远离人来车往、靠近村路旁边的溪水桥边（2分）。",
-        aPy: "méi huā zhǎng de xiàng bái yù tiáo bān jié bái tā shēng zhǎng zài yuǎn lí rén lái chē wǎng kào jìn cūn lù páng biān de xī shuǐ qiáo biān",
+        aPy: "méi huā zhǎng de xiàng bái yù tiáo bān jié bái fēn tā shēng zhǎng zài yuǎn lí rén lái chē wǎng kào jìn cūn lù páng biān de xī shuǐ qiáo biān fēn",
         aEn: "The plum blossoms are as white as white jade branches (2 marks). It grows far from the busy crowd, near the village path by the stream bridge (2 marks)."
     },
     {
